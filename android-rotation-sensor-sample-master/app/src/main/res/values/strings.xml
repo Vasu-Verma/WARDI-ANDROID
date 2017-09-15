@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Attitude Indicator</string>
+    <string name="title_activity_read_sensor_from_file">ReadSensorFromFile</string>
+</resources>
